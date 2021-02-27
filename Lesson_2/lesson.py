@@ -50,3 +50,6 @@ def my_decorator(func):
 def add(a, b):
   return a + b
 
+# test
+def my_new_function():
+  return "I'm new!"
